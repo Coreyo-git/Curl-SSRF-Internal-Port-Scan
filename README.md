@@ -1,5 +1,5 @@
 # Curl-SSRF-Internal-Port-Scan
 > A short Bash script looping through curl requests checking the response of each request for an open port.
-Works on websites vaunerable to SSRF enumeration of internal ports
+built for a website vaunerable to SSRF enumeration to scan internal network ports.
 
-Created during a CTF challange
+Created during a CTF challange on THM
